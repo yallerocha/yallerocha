@@ -1,5 +1,5 @@
 ##
-### 💻 Seja bem vindo(a) ao meu perfil:
+### 💻 Welcome to my GitHub profile:
 <div align="left">
   <a href="https://github.com/yallerocha">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yallerocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
