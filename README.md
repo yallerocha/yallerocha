@@ -8,9 +8,11 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
+  <img align="right" alt="yalle" height="400" width="400" src="https://media.discordapp.net/attachments/790229238149152771/945705865078538260/3426523_Mesa_de_trabajo_1.png?width=473&height=473">
+  
   ##### I am a graduate student in Computer Science at the Federal University of Campina Grande.
   ##
- 
+  
 <div>
   
   <a href="https://api.whatsapp.com/send?phone=5583981796615" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
