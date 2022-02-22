@@ -12,10 +12,10 @@
     
 ### 👨‍💻 About me:
    <p align=justify> I'm a graduate student in Computer Science at the Federal University of Campina Grande. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  
+
+![Snake animation](https://github.com/yallerocha/yallerocha/blob/output/github-contribution-grid-snake.svg)
+     
 ##
 <a href="https://api.whatsapp.com/send?phone=5583981796615" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/yallerocha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:yalle.rocha2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   
-![Snake animation](https://github.com/yallerocha/yallerocha/blob/output/github-contribution-grid-snake.svg)
