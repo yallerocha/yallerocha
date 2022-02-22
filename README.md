@@ -1,4 +1,4 @@
-### - Meu nome é Yalle Rocha. Seja bem vindo(a) ao meu perfil!
+### - Seja bem vindo(a) ao meu perfil!
 ##
 <div align="left">
   <a href="https://github.com/yallerocha">
