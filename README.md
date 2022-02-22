@@ -7,10 +7,20 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Js" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
   <img align="right" alt="yalle" height="350" width="350" src="https://media.discordapp.net/attachments/790229238149152771/945705865078538260/3426523_Mesa_de_trabajo_1.png?width=473&height=473">
   
   ##### I am a graduate student in Computer Science at the Federal University of Campina Grande.
+  ##### .
+  ##### .
+  ##### .
+  ##### .
   ##
   
 <div>
