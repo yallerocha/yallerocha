@@ -8,7 +8,7 @@
 </div>
   <div style="display: inline_block"><br>    
     
-  <img align="right" alt="yalle" height="300" width="300" src="https://media.discordapp.net/attachments/790229238149152771/945705865078538260/3426523_Mesa_de_trabajo_1.png?width=473&height=473">     
+  <img align="right" alt="yalle" height="250" width="250" src="https://media.discordapp.net/attachments/790229238149152771/945705865078538260/3426523_Mesa_de_trabajo_1.png?width=473&height=473">     
     
 ### 👨‍💻 About me:
    <p align=justify> I'm a graduate student in Computer Science at the Federal University of Campina Grande. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
