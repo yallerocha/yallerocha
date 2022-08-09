@@ -12,6 +12,8 @@
 ### 👨‍💻 About me:
    <p align=justify> I'm a graduate student in Computer Science at the Federal University of Campina Grande.
    <p align=justify> .
+   <p align=justify> .
+   <p align=justify> .
      
 ##
 <a href="https://api.whatsapp.com/send?phone=5583981796615" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
