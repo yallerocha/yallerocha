@@ -7,7 +7,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yallerocha&layout=compact&langs_count=7&theme=dark&card_width=433"/>
 </div>
      
-  <img align="right" alt="yalle" height="260" width="260" src="https://media.discordapp.net/attachments/790229238149152771/945705865078538260/3426523_Mesa_de_trabajo_1.png?width=473&height=473">     
+<img align="right" alt="yalle" height="260" width="260" src="https://media.discordapp.net/attachments/790229238149152771/945705865078538260/3426523_Mesa_de_trabajo_1.png?width=473&height=473">     
     
 ### 👨‍💻 About me:
    <p align=justify> I'm a graduate student in Computer Science at the Federal University of Campina Grande.
