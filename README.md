@@ -7,6 +7,12 @@
   
 </div>
 
+<div align="center">
+  <a href="https://github.com/yallerocha">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yalle&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yallerocha&layout=compact&langs_count=7&theme=algolia"/>
+</div>
+
 <p align=justify> .
   <p align=justify> .
     <p align=justify> .
