@@ -1,6 +1,6 @@
 ### 🌍 Bem vindo ao meu perfil: 
 
-- Linguagens: Python, Java, Dart, C++, HTML, Sass, Haskell, Prolog, SystemVerilog, SQL, Cypher;
+- Linguagens: Python, Java, Dart, C++, HTML, Sass, Haskell, Prolog, SQL, Cypher;
   
 - Frameworks: JUnit, ROS, Flutter, SpringBoot;
 
