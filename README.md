@@ -2,7 +2,7 @@
 
 - Linguagens: Python, Java, Dart, C++, HTML, Sass, Haskell, Prolog, SQL, Cypher;
   
-- Frameworks: JUnit, ROS, Flutter, SpringBoot;
+- Frameworks: JUnit, ROS, Flutter, React, SpringBoot;
 
 - SGBDs: Neo4j, Oracle;
 
