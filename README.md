@@ -1,6 +1,6 @@
 # Yalle Rocha 
 
-**AI/ML Engineer · Engenheiro de Software**
+**Engenheiro de Software**
 
 Graduado em Ciência da Computação pela UFCG (2026). No Laboratório de Sistemas Distribuídos (LSD/UFCG), trabalho com IA e sistemas distribuídos em parcerias com IBM e HPE. Tenho cerca de 3 anos de experiência full stack em web, mobile e backend.
 
